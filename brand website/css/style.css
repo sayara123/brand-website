@@ -1,0 +1,104 @@
+img.log{
+	height: 100px;
+	width: 140px;
+}
+strong{
+	font-size: larger;
+}
+
+.bg-light{
+	padding-top: 40px;
+}
+
+.button3{
+	font-family: serif;
+	background-color: #ff2020;
+	color: #ffffff;
+	padding: 8px 70px 8px 70px;
+	margin-left: 60px;
+	margin-top: 10px;
+	font-size: 20px;
+	margin-bottom: 100px;
+}
+.button3:hover{
+	background-color: blue;
+}
+span.range{
+	    color: coral;
+	    font-size: 28px;
+	    margin-left: 130px;
+	    margin-top: 20px;
+	    font-weight: 500;
+	    font-style: italic;
+}
+li {
+    list-style-type: none;
+}
+li a{
+	color: #929096;
+	font-size: 18px;
+}
+
+.bg1{
+padding-top: px;
+padding-bottom: 70px;
+}
+.box{
+	background-color: #dd0202;
+	height: 200px;
+	width: 400px;
+
+}
+.bx{
+	color: #ffffff;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.pb{
+	color: #ffffff;
+	padding-left: 20px;
+}
+.foot{
+	padding-top: 100px;
+}
+
+.head{
+	padding-top: 50px;
+	font-family: sans-serif;
+	font-weight: 600;
+	word-spacing: 4px;
+	text-align: center;
+}
+.button{
+	background-color:#ff2020;
+	color: #ffffff;
+	padding: 8px 15px 8px 15px;
+	font-size: 22px;
+	font-family:serif;
+	margin-top: 30px;
+	display:block;
+	margin: auto;
+
+
+}
+.button:hover{
+	background-color: blue;
+}
+
+.pp{
+	font-size: 20px;
+	 font-family: serif;
+	 padding-top: 30px;
+
+}
+
+i.fa.fa-refresh 
+{
+	font-size: 40px;
+}
+i.fa.fa-lock{
+	font-size: 40px;
+}
+i.fa.fa-cube {
+font-size: 40px;
+}
